@@ -18,8 +18,8 @@ edited.
 ### Releases
 
 v0.1.0: First official release, <i>very</i> beta-level code:
-[source](/~reillyeon/files/figfs-0.1.0.tar.bz2)
-[linux-amd64](/~reillyeon/files/figfs-0.1.0-linux-amd64.tar.bz2)
+[source](figfs-0.1.0.tar.bz2)
+[linux-amd64](figfs-0.1.0-linux-amd64.tar.bz2)
 
 ### Getting the source
 

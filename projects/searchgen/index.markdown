@@ -19,7 +19,7 @@ results.
 
 ### Usage
 
-Download the source [here](/~reillyeon/files/searchgen-0.1.tar.gz) and
+Download the [source](searchgen-0.1.tar.gz) and
 unpack the tarball. The file <code>build.py</code> is the main
 program. The files <code>main.c</code> and <code>main-len.c</code> are
 example programs. The <code>Makefile</code> is a good example of how
