@@ -7,7 +7,7 @@ My name is Reilly Grant, and this website is all about me, my life and my
 projects. Just to get started, here's some useful contact info:
 
 * [e-mail](http://www.faqs.org/rfcs/rfc821.html): reillyeon (at) qotw (dot) net
-* [GnuPG](http://www.gnupg.org/) key: [0x15485283](/~reillyeon/files/key.asc)
+* [GnuPG](http://www.gnupg.org/) key: [0x15485283](key.asc)
 * [AIM](http://www.aim.com): reillyeon
 * [Jabber](http://www.jabber.org): reillyeon (at) qotw (dot) net
 * Twitter: [reillyeon](http://twitter.com/reillyeon)

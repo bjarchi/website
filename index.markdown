@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Reilly Grant
 ---
 
 [About](about.html)

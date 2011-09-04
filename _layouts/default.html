@@ -2,10 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }}</title>
-  <meta name="author" content="Reilly Grant" />
+  <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <meta name="author" content="{{ site.author }}" />
 </head>
 <body>
+<h1>{{ site.title }}</h1>
+<a href="/~reillyeon">Home</a>
+<a href="/~reillyeon/about.html">About</a>
+<a href="/~reillyeon/projects/">Projects</a>
 <div id="site">
 {{ content }}
 </div>
