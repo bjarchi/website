@@ -2,9 +2,12 @@
 layout: default
 ---
 <h1>{{ site.title }}</h1>
-<a href="/~reillyeon/">Home</a>
-<a href="/~reillyeon/about.html">About</a>
-<a href="/~reillyeon/projects/">Projects</a>
+<a href="{{ site.base }}/">Home</a>
+<a href="{{ site.base }}/about.html">About</a>
+<a href="{{ site.base }}/projects/">Projects</a>
 <div id="page">
 {{ content }}
+</div>
+<div id="footer">
+Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>. Hosted on <a href="http://www.linode.com/?r=ebdfba5fabadefc6860000fdad9b1f0945beb22c">Linode</a>.
 </div>

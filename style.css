@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: black;
+}
+
+a:link { color: #39C; }
+a:visited { color: #96C; }
