@@ -1,9 +1,6 @@
 ---
-layout: default
+layout: page
 ---
-
-[About](about.html)
-[Projects](projects/)
 
 <ul class="posts">
   {% for post in site.posts %}
