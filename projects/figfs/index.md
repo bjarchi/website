@@ -17,7 +17,7 @@ edited.
 
 ### Releases
 
-v0.1.0: First official release, <i>very</i> beta-level code:
+v0.1.0: First official release, *very* beta-level code:
 [source](figfs-0.1.0.tar.bz2)
 [linux-amd64](figfs-0.1.0-linux-amd64.tar.bz2)
 
